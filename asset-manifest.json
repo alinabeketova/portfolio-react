@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.24211a52.css",
+    "main.js": "/portfolio-react/static/js/main.1aee483e.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/04.png": "/portfolio-react/static/media/04.2b161296fcc3feed33ac.png",
+    "static/media/06.png": "/portfolio-react/static/media/06.02c49933670fcc56030b.png",
+    "static/media/01.png": "/portfolio-react/static/media/01.8d7a1e3ed2486e5407b8.png",
+    "static/media/02.png": "/portfolio-react/static/media/02.8162fe3a4747808fb791.png",
+    "static/media/03.png": "/portfolio-react/static/media/03.aea03c01aefc606c268f.png",
+    "static/media/header-bg.png": "/portfolio-react/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/05.png": "/portfolio-react/static/media/05.f7deb59916461cb941cc.png",
+    "static/media/sun.svg": "/portfolio-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/portfolio-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/vk.svg": "/portfolio-react/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.24211a52.css.map": "/portfolio-react/static/css/main.24211a52.css.map",
+    "main.1aee483e.js.map": "/portfolio-react/static/js/main.1aee483e.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24211a52.css",
+    "static/js/main.1aee483e.js"
+  ]
+}
